@@ -1,0 +1,104 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+@-moz-document domain("news.ycombinator.com") {
+    body,
+    #hnmain {
+        background-color: #1e1e1e;
+        color: #8cdcdb
+    }
+    #hnmain>tbody>tr>td[bgcolor] {
+        background-color: #1e1e1e;
+        border-bottom: 1px solid #444;
+        padding: 15px 0;
+    }
+    textarea,
+    input,
+    select {
+        color: #8cdcdb !important;
+        border: 0;
+        background-color: #444;
+    }
+    a:link,
+    a:visited {
+        color: #2c7cd6 !important;
+    }
+    .comhead a:link,
+    .comhead a:visited {
+        color: #dcdcaa !important;
+    }
+    a.storylink:visited {
+        color: #8da8c8 !important;
+    }
+    .c00,
+    .c00 a:link {
+        color: #8cdcdb;
+    }
+    .c5a,
+    .c5a a:link {
+        color: #8cdcdb;
+    }
+    .c73,
+    .c73 a:link {
+        color: #8cdcdb;
+    }
+    .c82,
+    .c82 a:link {
+        color: #8cdcdb;
+    }
+    .c88,
+    .c88 a:link {
+        color: #8cdcdb;
+    }
+    .c9c,
+    .c9c a:link {
+        color: #8cdcdb;
+    }
+    .cae,
+    .cae a:link {
+        color: #8cdcdb;
+    }
+    .cbe,
+    .cbe a:link {
+        color: #8cdcdb;
+    }
+    .cce,
+    .cce a:link {
+        color: #8cdcdb;
+    }
+    .cdd,
+    .cdd a:link {
+        color: #8cdcdb;
+    }
+    .c00 a:visited {
+        color: #8da8c8;
+    }
+    .c5a a:visited {
+        color: #8da8c8;
+    }
+    .c73 a:visited {
+        color: #8da8c8;
+    }
+    .c82 a:visited {
+        color: #8da8c8;
+    }
+    .c88 a:visited {
+        color: #8da8c8;
+    }
+    .c9c a:visited {
+        color: #8da8c8;
+    }
+    .cae a:visited {
+        color: #8da8c8;
+    }
+    .cbe a:visited {
+        color: #8da8c8;
+    }
+    .cce a:visited {
+        color: #8da8c8;
+    }
+    .cdd a:visited {
+        color: #8da8c8;
+    }
+    .itemlist tr.spacer {
+        height: 15px !important;
+    }
+}
